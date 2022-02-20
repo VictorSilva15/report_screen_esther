@@ -1,6 +1,6 @@
 import React from 'react';
 import { StatusBar } from 'expo-status-bar';
-import { ReportScreen } from './src/components/ReportScreen';
+import { ReportScreen } from './src/ReportScreen';
 
 export default function App() {
   return (
